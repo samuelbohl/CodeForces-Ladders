@@ -4,7 +4,7 @@
 | 2 | [Bad Sequence](https://codeforces.com/problemset/problem/1214/C) | 1200 | ✔ |
 | 3 | [Bracket Subsequence](https://codeforces.com/problemset/problem/1023/C) | 1200 | ✔ |
 | 4 | [Dishonest Sellers](https://codeforces.com/problemset/problem/779/C) | 1200 | ✔ |
-| 5 | [Birthday](https://codeforces.com/problemset/problem/1131/C) | 1200 |  |
+| 5 | [Birthday](https://codeforces.com/problemset/problem/1131/C) | 1200 | ✔ |
 | 6 | [Dividing the numbers](https://codeforces.com/problemset/problem/899/C) | 1300 |  |
 | 7 | [Postcard](https://codeforces.com/problemset/problem/1099/C) | 1300 |  |
 | 8 | [Substring Game in the Lesson](https://codeforces.com/problemset/problem/1220/C) | 1300 |  |
