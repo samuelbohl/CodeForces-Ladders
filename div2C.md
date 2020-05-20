@@ -11,7 +11,7 @@
 | 9 | [Labs](https://codeforces.com/problemset/problem/1236/C) | 1300 | ✔ |
 | 10 | [Seat Arrangements](https://codeforces.com/problemset/problem/919/C) | 1300 | ✔ |
 | 11 | [Table Tennis Game 2](https://codeforces.com/problemset/problem/765/C) | 1300 | ✔ |
-| 12 | [Ehab and a Special Coloring Problem](https://codeforces.com/problemset/problem/1174/C) | 1300 |  |
+| 12 | [Ehab and a Special Coloring Problem](https://codeforces.com/problemset/problem/1174/C) | 1300 | ✔ |
 | 13 | [Phone Numbers](https://codeforces.com/problemset/problem/898/C) | 1400 |  |
 | 14 | [Servers](https://codeforces.com/problemset/problem/747/C) | 1400 |  |
 | 15 | [Constanze's Machine](https://codeforces.com/problemset/problem/1245/C) | 1400 |  |
