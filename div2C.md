@@ -26,7 +26,7 @@
 | 24 | [Journey](https://codeforces.com/problemset/problem/839/C) | 1500 | ✔ |
 | 25 | [Edgy Trees](https://codeforces.com/problemset/problem/1139/C) | 1500 | ✔ |
 | 26 | [Vladik and fractions](https://codeforces.com/problemset/problem/743/C) | 1500 | ✔ |
-| 27 | [Coffee Break](https://codeforces.com/problemset/problem/1041/C) | 1500 |  |
+| 27 | [Coffee Break](https://codeforces.com/problemset/problem/1041/C) | 1500 | ✔ |
 | 28 | [The Fair Nut and String](https://codeforces.com/problemset/problem/1084/C) | 1500 |  |
 | 29 | [Ayoub and Lost Array](https://codeforces.com/problemset/problem/1105/C) | 1500 |  |
 | 30 | [Sagheer and Nubian Market](https://codeforces.com/problemset/problem/812/C) | 1500 |  |
