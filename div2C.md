@@ -29,7 +29,7 @@
 | 27 | [Coffee Break](https://codeforces.com/problemset/problem/1041/C) | 1500 | ✔ |
 | 28 | [The Fair Nut and String](https://codeforces.com/problemset/problem/1084/C) | 1500 | ✔ |
 | 29 | [Ayoub and Lost Array](https://codeforces.com/problemset/problem/1105/C) | 1500 | ✔ |
-| 30 | [Sagheer and Nubian Market](https://codeforces.com/problemset/problem/812/C) | 1500 |  |
+| 30 | [Sagheer and Nubian Market](https://codeforces.com/problemset/problem/812/C) | 1500 | ✔  |
 | 31 | [Solution for Cube](https://codeforces.com/problemset/problem/887/C) | 1500 |  |
 | 32 | [Phone Numbers](https://codeforces.com/problemset/problem/940/C) | 1500 |  |
 | 33 | [Mahmoud and Ehab and the wrong algorithm](https://codeforces.com/problemset/problem/959/C) | 1500 |  |
