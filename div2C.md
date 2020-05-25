@@ -35,7 +35,7 @@
 | 33 | [Mahmoud and Ehab and the wrong algorithm](https://codeforces.com/problemset/problem/959/C) | 1500 |  |
 | 34 | [Candies](https://codeforces.com/problemset/problem/991/C) | 1500 | ✔ |
 | 35 | [Cut 'em all!](https://codeforces.com/problemset/problem/982/C) | 1500 | ✔ |
-| 36 | [Round Corridor](https://codeforces.com/problemset/problem/1200/C) | 1500 |  |
+| 36 | [Round Corridor](https://codeforces.com/problemset/problem/1200/C) | 1500 | ✔ |
 | 37 | [Swap Letters](https://codeforces.com/problemset/problem/1215/C) | 1500 |  |
 | 38 | [Sweets Eating](https://codeforces.com/problemset/problem/1253/C) | 1500 |  |
 | 39 | [Sequence Transformation](https://codeforces.com/problemset/problem/1059/C) | 1500 |  |
